@@ -3,8 +3,16 @@
     height:350px;
 }
 .navbar {
-    height: 100vh;
+   list-style: none;
 }
 .name{
     margin-top:25%;
+}
+
+.bg-image {
+    background-image: url("kyle-sung-oQuP_XBjOMY-unsplash.jpg");
+    background-size: cover;
+}
+.container {
+    position:absolute;
 }
