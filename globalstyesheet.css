@@ -4,6 +4,7 @@
 }
 .navbar {
    list-style: none;
+   background-color:blue;
 }
 .name{
     margin-top:25%;
